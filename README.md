@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Henok from ET</h1>
-<h3 align="center">A passionate Cloud/DevOps Engineer from</h3>
+<h3 align="center">A passionate Cloud/DevOps Engineer</h3>
 
 
 - 💬 Ask me about **Azure, AWS, ☁️**
