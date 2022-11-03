@@ -1,9 +1,8 @@
-
-## ሰላም ✌🏽, I'm Henok.
+## Hi ✌🏽, I'm Henok.
 <img align="right" width="320" height="280" src="https://raw.githubusercontent.com/"  />
 <br />
 
-> __<div align="center">A Software Engineer</div>__
+> __<div align="center">A Cloud Passionate </div>__
  <br /> [ ```Cloud ``` | ```Backend``` | ```Frontend``` | ```UI/UX``` | ```Cloud DevOps``` 
 
 ---
