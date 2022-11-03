@@ -12,7 +12,7 @@
 </p>
 
 ## ሰላም ✌🏽, I'm Henok.
-<img align="right" width="320" height="280" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
+<img align="right" width="320" height="280" src="https://raw.githubusercontent.com/" alt="my bitmoji" />
 <br />
 
 > __<div align="center">A Software Engineer</div>__
