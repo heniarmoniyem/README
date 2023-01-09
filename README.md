@@ -16,7 +16,7 @@
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/henok-mesfin/" height="30" width="40" /></a>
 </p>
 
-- Head over to my **underconstruction** portfolio site at [heni.dev](https://[https://lemon-meadow-0e055fa10.2.azurestaticapps.net/](https://lemon-meadow-0e055fa10.2.azurestaticapps.net/)) to learn more about me.
+- Head over to my **underconstruction** portfolio site at [heni.dev](https://[https://lemon-meadow-0e055fa10.2.azurestaticapps.net/]) to learn more about me.
 
 
 
